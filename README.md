@@ -1,8 +1,9 @@
 # learning-path-devops
 
 ## Linux basic understanding
-    - Scripting: https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/overview
-    - Optional, Linux overview: https://learn.acloud.guru/course/overview-of-linux/overview
+- Scripting: https://learn.acloud.guru/course/bccc6769-38e7-4a7f-8255-6914b7244caf/overview
+- Optional, Linux overview: https://learn.acloud.guru/course/overview-of-linux/overview
+
 ## Docker
     - Run pre-built docker images
         - nginx
