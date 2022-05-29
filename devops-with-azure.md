@@ -59,4 +59,4 @@
 
 
 ## Practice test at the end of the learning
-
+- Practial test document: https://github.com/sachingharge/learning-path-devops/blob/main/practical-test.pdf
