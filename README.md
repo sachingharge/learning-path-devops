@@ -17,12 +17,12 @@
 
 ## GitHub
 - Basic of software version control, creating a repo, branch, pushing the code, pull request, merge & rebase 
-  https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/
-  https://docs.microsoft.com/en-us/learn/modules/introduction-to-source-control/
-  https://docs.microsoft.com/en-us/learn/modules/structure-your-git-repo/
-  https://docs.microsoft.com/en-us/learn/modules/manage-git-repositories/
-  https://docs.microsoft.com/en-us/learn/modules/manage-git-branches-workflows/
-  https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/
+  - https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/
+  - https://docs.microsoft.com/en-us/learn/modules/introduction-to-source-control/
+  - https://docs.microsoft.com/en-us/learn/modules/structure-your-git-repo/
+  - https://docs.microsoft.com/en-us/learn/modules/manage-git-repositories/
+  - https://docs.microsoft.com/en-us/learn/modules/manage-git-branches-workflows/
+  - https://docs.microsoft.com/en-us/learn/modules/manage-changes-pull-requests-github/
 - Explore and understand the GitHub workflow, create sample workflow
 
 ## Azure: 
