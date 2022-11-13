@@ -42,6 +42,7 @@
     - Databases
         - Deploying an Azure Database for PostgreSQL: https://learn.acloud.guru/handson/e687725b-bd24-4f3a-b7f2-c5956b019714
         - Provisioning Azure Cosmos DB Resources: https://learn.acloud.guru/handson/3c5f266e-7547-47ec-bcf2-34194cf7b4ac
+- Build great solutions with the Microsoft Azure Well-Architected Framework: https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/
 
 
 ## Terraform
